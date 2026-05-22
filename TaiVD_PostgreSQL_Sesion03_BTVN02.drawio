@@ -22,7 +22,7 @@
         <mxCell id="jXG8GZ7v_RTfJuNhAE7X-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Có" vertex="1">
           <mxGeometry height="50" width="70" x="595" y="510" as="geometry" />
         </mxCell>
-        <mxCell id="jXG8GZ7v_RTfJuNhAE7X-24" edge="1" parent="1" source="jXG8GZ7v_RTfJuNhAE7X-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="jXG8GZ7v_RTfJuNhAE7X-3" value="N">
+        <mxCell id="jXG8GZ7v_RTfJuNhAE7X-24" edge="1" parent="1" source="jXG8GZ7v_RTfJuNhAE7X-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="jXG8GZ7v_RTfJuNhAE7X-3" value="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jXG8GZ7v_RTfJuNhAE7X-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Học" vertex="1">
